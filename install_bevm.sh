@@ -29,7 +29,7 @@ sudo sh get-docker.sh
 sudo mkdir -p /var/lib/node_bevm_test_storage
 
 # Pull the bevm Docker image
-sudo docker pull btclayer2/bevm:v0.1.1
+sudo docker pull btclayer2/bevm:v0.1.3
 
 # Replace "your_node_name" with your metamask address
 node_name="your_node_name"
