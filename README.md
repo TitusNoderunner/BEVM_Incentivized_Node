@@ -8,3 +8,6 @@ make it executable with **chmod +x install_bevm.sh.** Then, run the script with 
 Please note that you need to replace **"your_node_name"** with your **actual metamask address**.
 
 Also, make sure to have sudo access and Docker installed on your system before running the script.
+
+# Your directory for node
+sudo mkdir -p /var/lib/node_bevm_test_storage
